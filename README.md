@@ -40,8 +40,6 @@ npm run devStart
 localhost:2020/login
 ```
 
-## ![Test GIF](https://im.ezgif.com/tmp/ezgif-1-4c61d7ddd2f8.gif)
-
 ## Resources
 
 ### Languages
